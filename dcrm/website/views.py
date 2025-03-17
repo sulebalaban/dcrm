@@ -3,7 +3,7 @@ from django.contrib.auth import authenticate,login,logout
 from django.contrib import messages
 from.forms import SignUpForm
 from.models import Record
-from.models 
+
 
 
 def home(request):
